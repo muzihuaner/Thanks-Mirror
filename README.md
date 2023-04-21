@@ -2,14 +2,6 @@
 
 # Thanks Mirror
 
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/thanks-mirror)](https://github.com/eryajf/thanks-mirror/graphs/contributors)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/thanks-mirror.svg)](https://github.com/eryajf/thanks-mirror/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/thanks-mirror)](https://github.com/eryajf/thanks-mirror/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/thanks-mirror)](https://github.com/eryajf/thanks-mirror/stargazers)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/thanks-mirror.svg)](https://github.com/eryajf/thanks-mirror)
-[![GitHub license](https://img.shields.io/github/license/eryajf/thanks-mirror)](https://github.com/eryajf/thanks-mirror/blob/main/LICENSE)
-[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
 
 <p> 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像 </p>
 
@@ -20,22 +12,9 @@
 
 在此，对那些提供公共仓库镜像的企业或组织，致以感谢🫡！
 
-Gitee：[https://gitee.com/eryajf/Thanks-Mirror](https://gitee.com/eryajf/Thanks-Mirror)
-
-GitHub：[https://github.com/eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-
-每天自动运行一次链接检查，以保证项目中提供的链接都还正常可用，[检查详情查看。](https://github.com/eryajf/Thanks-Mirror/actions/workflows/links-check.yml)
 
 
-> 🥳 **欢迎关注我的其他项目：**
->
-> - [Go-Ldap-Admin](https://github.com/eryajf/go-ldap-admin)：🌉 基于Go+Vue实现的openLDAP后台管理项目。
-> - [learning-weekly](https://github.com/eryajf/learning-weekly)：📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。
-> - [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)：🌈 GitHub开源项目维护协同指南。
-> - [magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts)：🪄 运维外挂小工具。
-> - [care-screenshot](https://github.com/eryajf/care-screenshot)：给我一个URL，我能将你关心的元素截图发给机器人🤖
-> - [read-list](https://github.com/eryajf/read-list)：📖 优质内容订阅，阅读方为根本
-> - [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)：🦩 优秀的中文区个人主页搜集
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -2302,83 +2281,3 @@ GitHub相关的国内镜像，有不同的使用方式，这里仅列出目前�
 
 🔝[回到顶部](#thanks-mirror)
 
-## 如何贡献
-
-欢迎大家补充优秀的镜像，让我们一起建设好这个仓库！
-
-贡献内容只需要注意目录的层级与原有内容格式对齐，术业有专攻，大家提交的镜像，最好都是有经过测试验证的！
-
-## 贡献者
-
-<!-- readme: collaborators,contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/eryajf">
-            <img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="100;" alt="eryajf"/>
-            <br />
-            <sub><b>二丫讲梵</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ykla">
-            <img src="https://avatars.githubusercontent.com/u/10327999?v=4" width="100;" alt="ykla"/>
-            <br />
-            <sub><b>Ykla</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/18183883296">
-            <img src="https://avatars.githubusercontent.com/u/89304297?v=4" width="100;" alt="18183883296"/>
-            <br />
-            <sub><b>Sunrise</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Hanjingxue-Boling">
-            <img src="https://avatars.githubusercontent.com/u/87272716?v=4" width="100;" alt="Hanjingxue-Boling"/>
-            <br />
-            <sub><b>Hanjingxue Boling</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/colinxu2020">
-            <img src="https://avatars.githubusercontent.com/u/63941938?v=4" width="100;" alt="colinxu2020"/>
-            <br />
-            <sub><b>Colinxu2020</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/danbai225">
-            <img src="https://avatars.githubusercontent.com/u/40517872?v=4" width="100;" alt="danbai225"/>
-            <br />
-            <sub><b>淡白</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Goojoe">
-            <img src="https://avatars.githubusercontent.com/u/78355492?v=4" width="100;" alt="Goojoe"/>
-            <br />
-            <sub><b>咕咕乔</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/jingjingxyk">
-            <img src="https://avatars.githubusercontent.com/u/6836228?v=4" width="100;" alt="jingjingxyk"/>
-            <br />
-            <sub><b>好吧，你想说啥</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hoochanlon">
-            <img src="https://avatars.githubusercontent.com/u/35732922?v=4" width="100;" alt="hoochanlon"/>
-            <br />
-            <sub><b>菠萝包趣多多</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: collaborators,contributors -end -->
-
-
-🔝[回到顶部](#thanks-mirror)
